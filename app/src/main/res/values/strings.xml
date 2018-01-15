@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Hoopsilonians Schedule App</string>
+    <string name="set_date_btn">Set Date</string>
+    <string name="confirm_btn">Confirm</string>
+    <string name="location_autocomplete">Enter Location</string>
+
+    <string-array name="teams_array">
+        <item>Leads 69ers</item>
+        <item>South Glensanity</item>
+        <item>TNE (Team Ni Eli/Emer)</item>
+        <item>Black High Fivers</item>
+        <item>Sandwicheese</item>
+        <item>Barkada</item>
+        <item>Protego Blue Mountain</item>
+    </string-array>
+
+    <string-array name="locations_array">
+        <item>Victoria</item>
+        <item>Treston</item>
+        <item>FCL</item>
+    </string-array>
+</resources>
